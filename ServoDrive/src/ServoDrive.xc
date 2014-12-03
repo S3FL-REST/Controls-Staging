@@ -9,7 +9,7 @@
 #include <platform.h>
 #include "servo.h"
 
-//in port encoderA = XS1_PORT_1E;
+//in port encoderA = XS1_PORT_1H;
 //in port encoderB = XS1_PORT_1G;
 
 void servo_drive_task(client interface servo_control_interface sci)
